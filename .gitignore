@@ -8,3 +8,6 @@ obj/
 *.suo
 *.userosscache
 *.sln.docstates
+
+# Banco local
+*.db
